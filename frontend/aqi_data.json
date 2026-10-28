@@ -1,0 +1,561 @@
+{
+  "cities": {
+    "Islamabad": {
+      "aqi": 379,
+      "status": "Hazardous",
+      "updated": "Just updated",
+      "pollutants": {
+        "pm25": 329,
+        "pm10": 388,
+        "no2": 162,
+        "o3": 0,
+        "so2": 23,
+        "co": 4913,
+        "nh3": 62,
+        "no": 26
+      },
+      "activeSpikes": 24,
+      "alertsToday": 48,
+      "deliveredAlerts": 43,
+      "failedAlerts": 5,
+      "dominantPollutant": "PM2.5",
+      "dominantValue": "329 \u00b5g/m\u00b3",
+      "dominantStatus": "Toxic",
+      "trends24h": {
+        "labels": [
+          "00:00",
+          "04:00",
+          "08:00",
+          "12:00",
+          "16:00",
+          "20:00",
+          "23:00"
+        ],
+        "pm25": [
+          338,
+          398,
+          145,
+          283,
+          452,
+          423,
+          329
+        ],
+        "no2": [
+          186,
+          156,
+          57,
+          175,
+          208,
+          230,
+          162
+        ],
+        "o3": [
+          0,
+          5,
+          130,
+          11,
+          0,
+          0,
+          0
+        ]
+      },
+      "heatmap": [
+        484,
+        483,
+        467,
+        449,
+        433,
+        408,
+        379
+      ],
+      "anomalies": [
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Blue Area",
+          "time": "11:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Sector F-6",
+          "time": "10:00 PM"
+        },
+        {
+          "icon": "\ud83d\ude97",
+          "title": "Vehicular Traffic",
+          "level": "High",
+          "location": "I-9 Industrial Zone",
+          "time": "09:00 PM"
+        }
+      ],
+      "sourceDistribution": {
+        "industrial": 7,
+        "agricultural": 10,
+        "vehicular": 83
+      },
+      "aiAlert": {
+        "title": "Islamabad: Mixed Pollution surge detected.",
+        "message": "Concentration levels of PM2.5 have exceeded WHO safe limits by 21.9x. Respiratory threat is High. Avoid outdoor exercise and wear filters."
+      },
+      "mapCoord": {
+        "top": "15%",
+        "left": "60%"
+      }
+    },
+    "Karachi": {
+      "aqi": 187,
+      "status": "Unhealthy",
+      "updated": "Just updated",
+      "pollutants": {
+        "pm25": 125,
+        "pm10": 178,
+        "no2": 27,
+        "o3": 69,
+        "so2": 19,
+        "co": 1415,
+        "nh3": 18,
+        "no": 0
+      },
+      "activeSpikes": 24,
+      "alertsToday": 48,
+      "deliveredAlerts": 43,
+      "failedAlerts": 5,
+      "dominantPollutant": "PM2.5",
+      "dominantValue": "125 \u00b5g/m\u00b3",
+      "dominantStatus": "Toxic",
+      "trends24h": {
+        "labels": [
+          "00:00",
+          "04:00",
+          "08:00",
+          "12:00",
+          "16:00",
+          "20:00",
+          "23:00"
+        ],
+        "pm25": [
+          147,
+          255,
+          130,
+          190,
+          504,
+          191,
+          125
+        ],
+        "no2": [
+          34,
+          122,
+          65,
+          156,
+          244,
+          85,
+          27
+        ],
+        "o3": [
+          57,
+          13,
+          117,
+          54,
+          0,
+          8,
+          69
+        ]
+      },
+      "heatmap": [
+        500,
+        453,
+        325,
+        241,
+        199,
+        190,
+        187
+      ],
+      "anomalies": [
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "Kemari Port",
+          "time": "11:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "Clifton District",
+          "time": "10:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "S.I.T.E. Industrial Area",
+          "time": "09:00 PM"
+        }
+      ],
+      "sourceDistribution": {
+        "industrial": 27,
+        "agricultural": 13,
+        "vehicular": 60
+      },
+      "aiAlert": {
+        "title": "Karachi: Mixed Pollution surge detected.",
+        "message": "Concentration levels of PM2.5 have exceeded WHO safe limits by 8.3x. Respiratory threat is High. Avoid outdoor exercise and wear filters."
+      },
+      "mapCoord": {
+        "top": "75%",
+        "left": "33%"
+      }
+    },
+    "Lahore": {
+      "aqi": 453,
+      "status": "Hazardous",
+      "updated": "Just updated",
+      "pollutants": {
+        "pm25": 428,
+        "pm10": 510,
+        "no2": 53,
+        "o3": 5,
+        "so2": 5,
+        "co": 3151,
+        "nh3": 4,
+        "no": 1
+      },
+      "activeSpikes": 24,
+      "alertsToday": 48,
+      "deliveredAlerts": 43,
+      "failedAlerts": 5,
+      "dominantPollutant": "PM2.5",
+      "dominantValue": "428 \u00b5g/m\u00b3",
+      "dominantStatus": "Toxic",
+      "trends24h": {
+        "labels": [
+          "00:00",
+          "04:00",
+          "08:00",
+          "12:00",
+          "16:00",
+          "20:00",
+          "23:00"
+        ],
+        "pm25": [
+          392,
+          531,
+          394,
+          477,
+          718,
+          514,
+          428
+        ],
+        "no2": [
+          54,
+          59,
+          117,
+          184,
+          170,
+          96,
+          53
+        ],
+        "o3": [
+          0,
+          0,
+          73,
+          15,
+          0,
+          0,
+          5
+        ]
+      },
+      "heatmap": [
+        500,
+        500,
+        500,
+        500,
+        474,
+        455,
+        453
+      ],
+      "anomalies": [
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Gulberg Zone",
+          "time": "11:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Walled City",
+          "time": "10:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "North Industrial Area",
+          "time": "09:00 PM"
+        }
+      ],
+      "sourceDistribution": {
+        "industrial": 5,
+        "agricultural": 4,
+        "vehicular": 91
+      },
+      "aiAlert": {
+        "title": "Lahore: Mixed Pollution surge detected.",
+        "message": "Concentration levels of PM2.5 have exceeded WHO safe limits by 28.6x. Respiratory threat is High. Avoid outdoor exercise and wear filters."
+      },
+      "mapCoord": {
+        "top": "25%",
+        "left": "52%"
+      }
+    },
+    "Peshawar": {
+      "aqi": 462,
+      "status": "Hazardous",
+      "updated": "Just updated",
+      "pollutants": {
+        "pm25": 443,
+        "pm10": 511,
+        "no2": 173,
+        "o3": 7,
+        "so2": 23,
+        "co": 6462,
+        "nh3": 67,
+        "no": 0
+      },
+      "activeSpikes": 24,
+      "alertsToday": 48,
+      "deliveredAlerts": 43,
+      "failedAlerts": 5,
+      "dominantPollutant": "PM2.5",
+      "dominantValue": "443 \u00b5g/m\u00b3",
+      "dominantStatus": "Toxic",
+      "trends24h": {
+        "labels": [
+          "00:00",
+          "04:00",
+          "08:00",
+          "12:00",
+          "16:00",
+          "20:00",
+          "23:00"
+        ],
+        "pm25": [
+          198,
+          250,
+          301,
+          423,
+          697,
+          722,
+          443
+        ],
+        "no2": [
+          67,
+          104,
+          66,
+          145,
+          222,
+          293,
+          173
+        ],
+        "o3": [
+          21,
+          2,
+          195,
+          140,
+          2,
+          0,
+          7
+        ]
+      },
+      "heatmap": [
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        462
+      ],
+      "anomalies": [
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Hayatabad Ring Rd",
+          "time": "11:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "High",
+          "location": "Karkhano Market",
+          "time": "10:00 PM"
+        },
+        {
+          "icon": "\ud83c\udf3e",
+          "title": "Crop Burning",
+          "level": "High",
+          "location": "Peshawar Cantt",
+          "time": "09:00 PM"
+        }
+      ],
+      "sourceDistribution": {
+        "industrial": 7,
+        "agricultural": 10,
+        "vehicular": 83
+      },
+      "aiAlert": {
+        "title": "Peshawar: Mixed Pollution surge detected.",
+        "message": "Concentration levels of PM2.5 have exceeded WHO safe limits by 29.5x. Respiratory threat is High. Avoid outdoor exercise and wear filters."
+      },
+      "mapCoord": {
+        "top": "16%",
+        "left": "50%"
+      }
+    },
+    "Quetta": {
+      "aqi": 155,
+      "status": "Unhealthy",
+      "updated": "Just updated",
+      "pollutants": {
+        "pm25": 63,
+        "pm10": 86,
+        "no2": 25,
+        "o3": 64,
+        "so2": 10,
+        "co": 921,
+        "nh3": 15,
+        "no": 0
+      },
+      "activeSpikes": 16,
+      "alertsToday": 32,
+      "deliveredAlerts": 28,
+      "failedAlerts": 4,
+      "dominantPollutant": "PM2.5",
+      "dominantValue": "63 \u00b5g/m\u00b3",
+      "dominantStatus": "Toxic",
+      "trends24h": {
+        "labels": [
+          "00:00",
+          "04:00",
+          "08:00",
+          "12:00",
+          "16:00",
+          "20:00",
+          "23:00"
+        ],
+        "pm25": [
+          69,
+          87,
+          12,
+          16,
+          91,
+          84,
+          63
+        ],
+        "no2": [
+          23,
+          53,
+          3,
+          5,
+          55,
+          42,
+          25
+        ],
+        "o3": [
+          78,
+          47,
+          97,
+          93,
+          41,
+          49,
+          64
+        ]
+      },
+      "heatmap": [
+        176,
+        177,
+        171,
+        166,
+        161,
+        157,
+        155
+      ],
+      "anomalies": [
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "Cantonment Area",
+          "time": "11:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "Jinnah Road Hub",
+          "time": "10:00 PM"
+        },
+        {
+          "icon": "\ud83c\udfed",
+          "title": "Mixed Pollution",
+          "level": "Medium",
+          "location": "Sariab Road District",
+          "time": "09:00 PM"
+        }
+      ],
+      "sourceDistribution": {
+        "industrial": 17,
+        "agricultural": 13,
+        "vehicular": 70
+      },
+      "aiAlert": {
+        "title": "Quetta: Mixed Pollution surge detected.",
+        "message": "Concentration levels of PM2.5 have exceeded WHO safe limits by 4.2x. Respiratory threat is High. Avoid outdoor exercise and wear filters."
+      },
+      "mapCoord": {
+        "top": "48%",
+        "left": "28%"
+      }
+    }
+  },
+  "recentAlerts": [
+    {
+      "status": "Delivered",
+      "time": "Just updated",
+      "message": "SmogNet Warning: Islamabad AQI peaked at 379 (Hazardous). Dominant source: Mixed Pollution.",
+      "recipient": "+923109661075"
+    },
+    {
+      "status": "Delivered",
+      "time": "Just updated",
+      "message": "SmogNet Warning: Karachi AQI peaked at 187 (Unhealthy). Dominant source: Mixed Pollution.",
+      "recipient": "+923109661075"
+    },
+    {
+      "status": "Delivered",
+      "time": "Just updated",
+      "message": "SmogNet Warning: Lahore AQI peaked at 453 (Hazardous). Dominant source: Mixed Pollution.",
+      "recipient": "+923109661075"
+    },
+    {
+      "status": "Delivered",
+      "time": "Just updated",
+      "message": "SmogNet Warning: Peshawar AQI peaked at 462 (Hazardous). Dominant source: Mixed Pollution.",
+      "recipient": "+923109661075"
+    },
+    {
+      "status": "Delivered",
+      "time": "Just updated",
+      "message": "SmogNet Warning: Quetta AQI peaked at 155 (Unhealthy). Dominant source: Mixed Pollution.",
+      "recipient": "+923109661075"
+    }
+  ]
+}
